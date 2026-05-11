@@ -1,0 +1,144 @@
+date,item,quantity_sold,total_sales
+2025-08-31 00:00:00,Coconut ,14,56000
+2025-08-31 00:00:00,Maqluba lotus chocolat ,1,9000
+2025-08-31 00:00:00,Maqluba lotus nuttela ,1,9000
+2025-08-31 00:00:00,Croissant Sandwich chocolate ,2,9000
+2025-08-31 00:00:00,Make your own ,3,12000
+2025-08-31 00:00:00,Crunchy Lottus ,4,16000
+2025-08-31 00:00:00,Oreo ,4,16000
+2025-08-31 00:00:00,MIXED BERRY ,5,20000
+2025-08-31 00:00:00,Maqluba oreo nuttela ,5,45000
+2025-08-31 00:00:00,Verry Berry Hibiscus ,5,25000
+2025-08-31 00:00:00,SPECIAL AND ICE CREAM CHOCOLATE ,6,36000
+2025-08-31 00:00:00,SPECIAL AND ICE CREAM NUTTELA ,6,36000
+2025-08-31 00:00:00,Dubai croissant chocolate ,7,38500
+2025-08-31 00:00:00,Nutella ,7,28000
+2025-08-31 00:00:00,Croissant & Ice cream nuttella ,9,40500
+2025-08-31 00:00:00,Croissant sandwich nuttela ,9,40500
+2025-08-31 00:00:00,Croissant & ice cream chocolate ,10,45000
+2025-08-31 00:00:00,Fruit Chocolate ,10,50000
+2025-08-31 00:00:00,Kinder Bueno ,10,40000
+2025-08-31 00:00:00,Dubai Croissant nuttela ,11,60500
+2025-08-31 00:00:00,Peach ,22,88000
+2025-08-31 00:00:00,Fruit nuttela ,23,115000
+2025-08-31 00:00:00,Pink Coco ,27,135000
+2025-08-31 00:00:00,Tropigo ,29,116000
+2025-08-31 00:00:00,Shklet Kabab chocolate ,31,124000
+2025-08-31 00:00:00,Pistachio ,34,153000
+2025-08-31 00:00:00,Mango ,54,216000
+2025-08-31 00:00:00,Shklet Kabab nuttela ,57,228000
+2025-08-31 00:00:00,Strawberry ,60,240000
+2025-08-31 00:00:00,Mini Pancake chocolate ,62,310000
+2025-08-31 00:00:00,water ,62,15500
+2025-08-31 00:00:00,Orange Blossom ,76,304000
+2025-08-31 00:00:00,Mini Pancakes nuttela ,107,535000
+2025-08-31 00:00:00,Shklet fizz ,108,432000
+2025-08-31 00:00:00,Dubai Special chocolate ,127,762000
+2025-08-31 00:00:00,Maqluba chocolate ,164,1476000
+2025-08-31 00:00:00,Dubai Special nuttela ,257,1542000
+2025-08-31 00:00:00,Maqluba nuttela ,257,2313000
+2025-08-31 00:00:00,Shklet Special chocolate ,279,1395000
+2025-08-31 00:00:00,Shklet Special nuttela ,564,2820000
+2025-09-30 00:00:00,Maqluba lotus nuttela ,3,27000
+2025-09-30 00:00:00,Fruit Chocolate ,8,40000
+2025-09-30 00:00:00,Maqluba lotus chocolat ,8,72000
+2025-09-30 00:00:00,soda ,8,4000
+2025-09-30 00:00:00,Maqluba oreo chocolate ,11,99000
+2025-09-30 00:00:00,Shklet Kabab chocolate ,14,56000
+2025-09-30 00:00:00,Maqluba oreo nuttela ,15,135000
+2025-09-30 00:00:00,Fruit nuttela ,25,125000
+2025-09-30 00:00:00,SPECIAL AND ICE CREAM CHOCOLATE ,27,162000
+2025-09-30 00:00:00,cola ,30,30000
+2025-09-30 00:00:00,Tropigo ,33,132000
+2025-09-30 00:00:00,Mango ,39,156000
+2025-09-30 00:00:00,Pink Coco ,49,245000
+2025-09-30 00:00:00,MIXED BERRY ,54,216000
+2025-09-30 00:00:00,SPECIAL AND ICE CREAM NUTTELA ,55,330000
+2025-09-30 00:00:00,Mini Pancake chocolate ,60,300000
+2025-09-30 00:00:00,Shklet Kabab nuttela ,60,240000
+2025-09-30 00:00:00,Strawberry ,61,244000
+2025-09-30 00:00:00,Orange Blossom ,65,260000
+2025-09-30 00:00:00,Pistachio ,67,301500
+2025-09-30 00:00:00,Mini Pancakes nuttela ,113,565000
+2025-09-30 00:00:00,Dubai Special chocolate ,123,738000
+2025-09-30 00:00:00,Shklet fizz ,125,500000
+2025-09-30 00:00:00,Maqluba chocolate ,169,1521000
+2025-09-30 00:00:00,Maqluba nuttela ,255,2295000
+2025-09-30 00:00:00,Shklet Special chocolate ,266,1330000
+2025-09-30 00:00:00,water ,266,66500
+2025-09-30 00:00:00,Dubai Special nuttela ,284,1704000
+2025-09-30 00:00:00,Shklet Special nuttela ,624,3120000
+2025-10-31 00:00:00,Maqluba lotus chocolat ,2,18000
+2025-10-31 00:00:00,MIXED BERRY ,5,20000
+2025-10-31 00:00:00,Mango ,7,28000
+2025-10-31 00:00:00,SPECIAL AND ICE CREAM CHOCOLATE ,7,42000
+2025-10-31 00:00:00,Maqluba oreo chocolate ,8,72000
+2025-10-31 00:00:00,Maqluba oreo nuttela ,10,90000
+2025-10-31 00:00:00,Strawberry ,11,44000
+2025-10-31 00:00:00,Maqluba lotus nuttela ,13,117000
+2025-10-31 00:00:00,Pistachio ,14,63000
+2025-10-31 00:00:00,soda ,14,7000
+2025-10-31 00:00:00,SPECIAL AND ICE CREAM NUTTELA ,15,90000
+2025-10-31 00:00:00,Tropigo ,21,84000
+2025-10-31 00:00:00,Shklet Kabab chocolate ,26,104000
+2025-10-31 00:00:00,Pink Coco ,28,140000
+2025-10-31 00:00:00,cola ,29,29000
+2025-10-31 00:00:00,Fruit Chocolate ,35,175000
+2025-10-31 00:00:00,Orange Blossom ,41,164000
+2025-10-31 00:00:00,Fruit nuttela ,42,210000
+2025-10-31 00:00:00,Shklet Kabab nuttela ,48,192000
+2025-10-31 00:00:00,Mini Pancake chocolate ,49,245000
+2025-10-31 00:00:00,Shklet fizz ,58,232000
+2025-10-31 00:00:00,Mini Pancakes nuttela ,117,585000
+2025-10-31 00:00:00,water ,117,29250
+2025-10-31 00:00:00,Dubai Special chocolate ,123,738000
+2025-10-31 00:00:00,Maqluba chocolate ,169,1521000
+2025-10-31 00:00:00,Maqluba nuttela ,224,2016000
+2025-10-31 00:00:00,Dubai Special nuttela ,271,1626000
+2025-10-31 00:00:00,Shklet Special chocolate ,304,1520000
+2025-10-31 00:00:00,Shklet Special nuttela ,667,3335000
+2025-11-30 00:00:00,Maqluba lotus chocolat ,1,9000
+2025-11-30 00:00:00,Tropigo ,1,4000
+2025-11-30 00:00:00,Maqluba lotus nuttela ,4,36000
+2025-11-30 00:00:00,Orange Blossom ,4,16000
+2025-11-30 00:00:00,Pink Coco ,4,20000
+2025-11-30 00:00:00,Maqluba oreo chocolate ,5,45000
+2025-11-30 00:00:00,Shklet fizz ,6,24000
+2025-11-30 00:00:00,Maqluba oreo nuttela ,18,162000
+2025-11-30 00:00:00,Fruit Chocolate ,26,130000
+2025-11-30 00:00:00,Shklet Kabab chocolate ,28,112000
+2025-11-30 00:00:00,soda ,34,17000
+2025-11-30 00:00:00,Mini Pancake chocolate ,43,215000
+2025-11-30 00:00:00,Fruit nuttela ,44,220000
+2025-11-30 00:00:00,Shklet Kabab nuttela ,52,208000
+2025-11-30 00:00:00,cola ,56,56000
+2025-11-30 00:00:00,Mini Pancakes nuttela ,105,525000
+2025-11-30 00:00:00,Dubai Special chocolate ,147,882000
+2025-11-30 00:00:00,Maqluba chocolate ,175,1575000
+2025-11-30 00:00:00,water ,208,52000
+2025-11-30 00:00:00,Maqluba nuttela ,237,2133000
+2025-11-30 00:00:00,Dubai Special nuttela ,249,1494000
+2025-11-30 00:00:00,Shklet Special chocolate ,334,1670000
+2025-11-30 00:00:00,Shklet Special nuttela ,798,3990000
+2025-12-31 00:00:00,SPICY HOT CHOCOLATE ,1,5500
+2025-12-31 00:00:00,Maqluba lotus nuttela ,3,27000
+2025-12-31 00:00:00,Maqluba lotus chocolat ,7,63000
+2025-12-31 00:00:00,Maqluba oreo nuttela ,9,81000
+2025-12-31 00:00:00,TRAMISU HOT CHOCOLATE ,9,49500
+2025-12-31 00:00:00,Maqluba oreo chocolate ,10,90000
+2025-12-31 00:00:00,Shklet Kabab chocolate ,12,48000
+2025-12-31 00:00:00,soda ,12,6000
+2025-12-31 00:00:00,CLASIC HOT CHOCOLATE ,23,115000
+2025-12-31 00:00:00,Shklet Kabab nuttela ,31,124000
+2025-12-31 00:00:00,cola ,32,32000
+2025-12-31 00:00:00,Fruit Chocolate ,44,220000
+2025-12-31 00:00:00,water ,47,11750
+2025-12-31 00:00:00,Mini Pancake chocolate ,63,315000
+2025-12-31 00:00:00,Fruit nuttela ,74,370000
+2025-12-31 00:00:00,Maqluba chocolate ,164,1476000
+2025-12-31 00:00:00,Dubai Special chocolate ,186,1116000
+2025-12-31 00:00:00,Mini Pancakes nuttela ,196,980000
+2025-12-31 00:00:00,Maqluba nuttela ,252,2268000
+2025-12-31 00:00:00,Shklet Special chocolate ,389,1945000
+2025-12-31 00:00:00,Dubai Special nuttela ,476,2856000
+2025-12-31 00:00:00,Shklet Special nuttela ,1134,5670000
